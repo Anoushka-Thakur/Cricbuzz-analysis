@@ -74,3 +74,9 @@ Improved understanding of cricket analytics and sports data
 Demonstrated ability to clean, analyze, and visualize real-world datasets
 
 Built a reproducible and well-documented analytics project for portfolio use
+
+👩‍💻 Author
+
+Anoushka Thakur
+Data Analyst Intern
+SQL • Python • Excel • Pandas • Data Cleaning • EDA
